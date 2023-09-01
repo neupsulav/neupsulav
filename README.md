@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neupsulav&label=Profile%20views&color=0e75b6&style=flat" alt="neupsulav" /> </p>
 
-- 🌱 I’m currently learning **Backend development using NodeJS**
+- 🌱 I’m currently working on projects based on **Backend development using NodeJS**
 
 - 📫 How to reach me **neupsulav@gmail.com**
 
